@@ -1,4 +1,4 @@
-# Covid 19 data expolaration
+SQL DATA CLEANING AND UNDERSTANDING INSIGHT
 1.Data cleaning using SQL. from that data understanding better business insght using SQL  
 
 2.The study about Nashville residents and the house selling patterns. we cleaned the data using SQL and using Case statement,
