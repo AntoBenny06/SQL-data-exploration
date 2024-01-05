@@ -1,9 +1,0 @@
-#
-  
-
-2.The study about Nashville residents and the house selling patterns. we cleaned the data using SQL and using Case statement,
-partition by
-, Removing duplicates, splitting
-temp table,
-cte,
-subqueries,
