@@ -1,4 +1,4 @@
-Data cleaning using SQL. 
+#Data cleaning using SQL. 
 
 COVID 19
 in the covid 19 data we understood the insight and cleaned it
